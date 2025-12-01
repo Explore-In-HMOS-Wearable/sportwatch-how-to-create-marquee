@@ -1,0 +1,7 @@
+<div class="container">
+    <marquee class="customMarquee" scrollamount="{{ scrollAmount }}">{{ marqueeCustomData }}</marquee>
+
+    <input type="button" class="button" onclick="increaseSpeed">{{ addText }}</input>
+    <input type="button" class="button" onclick="decreaseSpeed">{{ downText }}</input>
+    <input type="button" class="button" onclick="changeData">change</input>
+</div>
