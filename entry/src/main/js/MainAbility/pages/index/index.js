@@ -8,7 +8,7 @@ export default {
             'Let\'s learn lite wearable',
             'Welcome to HOS Next!',
             'Have a nice day!',
-            'Huawei developers!',
+            'Huawei developers!'
         ],
         changeIndex: 0
     },

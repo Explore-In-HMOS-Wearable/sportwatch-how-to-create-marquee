@@ -42,7 +42,11 @@ entry/src/main/js/MainAbility
 
 ## Supported Devices
 
-- Huawei Lite Wearable
+- Huawei Sport (Lite) Watch GT 4/5/6
+- Huawei Sport (Lite) GT5/6 Pro 
+- Huawei Sport (Lite) Fit 3/4 
+- Huawei Sport (Lite) D2 
+- Huawei Sport (Lite) Ultimate
 
 # LICENSE
 **How To Use Marquee in Lite Wearable?** is distributed under the terms of the MIT License.
